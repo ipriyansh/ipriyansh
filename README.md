@@ -2,12 +2,7 @@
 
 Welcome to my GitHub profile!
 
-Business Technology Professional with 5+ years of experience bridging tech and business teams
-to deliver data-driven solutions. I transform complex data challenges into actionable insights,
-driving process optimization and user-centric outcomes. Skilled in data engineering, business
-analysis, stakeholder communication, and product roadmap development, I’m eager to apply
-my expertise to business analyst, data analyst, product management, or data engineering roles.
----
+Business Technology Professional with 5+ years of experience bridging tech and business teams to deliver data-driven solutions. I transform complex data challenges into actionable insights,driving process optimization and user-centric outcomes. Skilled in data engineering, business analysis, stakeholder communication, and product roadmap development. I’m eager to apply my expertise to business analyst, data analyst, product management, or data engineering roles.
 
 ## 🚀 About Me
 

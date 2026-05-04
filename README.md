@@ -45,7 +45,7 @@ Business Technology Professional with 5+ years of experience bridging tech and b
 
 ## 📄 My Resume
 
-- [View/Download my Resume](./Priyansh_Resume.pdf)
+- [View/Download my Resume](./Priyansh_Sourav_Resume.pdf)
 
 ---
 
